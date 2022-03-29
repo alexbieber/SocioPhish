@@ -1,0 +1,8 @@
+Package: SocioPhisher
+Version: 2.0
+Installed-Size: 9400
+Architecture: all
+Maintainer: @alexbieber
+Depends: php, wget, git, curl
+Homepage: https://github.com/alexbieber/SocioPhisher
+Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
