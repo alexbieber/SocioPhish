@@ -1,6 +1,6 @@
 #!/bin/bash
 PACKAGE_NAME=SocioPhish
-ZPHISHER_VERSION=2.0
+SOCIOPHISH_VERSION=2.0
 PACKAGE_ARCH=all
 DISTRO=$(uname -o)
 
