@@ -56,10 +56,10 @@ $ git clone https://github.com/alexbieber/SocioPhish.git
 - Change to cloned directory and run `SocioPhish.sh` -
 ```
 $ cd SocioPhish
-$ bash sociophish.sh
+$ bash sociophisher.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `SocioPhisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `SocioPhish` is installed.
 
 ### Run on Docker
 ```
