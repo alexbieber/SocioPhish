@@ -1,4 +1,4 @@
-<!-- SocioPhisher -->
+<!-- SocioPhish -->
 
 <p align="center">
   <img src="https://pngimg.com/uploads/hacker/hacker_PNG33.png">
@@ -24,7 +24,7 @@
 
 <h3><p align="center">Warning!</p></h3>
 
-<i>Any actions and or activities related to <b>SocioPhisher</b> is your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i>Any actions and or activities related to <b>SocioPhish</b> is your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 <b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
@@ -53,10 +53,10 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 $ git clone https://github.com/alexbieber/SocioPhish.git
 ```
 
-- Change to cloned directory and run `SocioPhisher.sh` -
+- Change to cloned directory and run `SocioPhish.sh` -
 ```
 $ cd SocioPhish
-$ bash sociophisher.sh
+$ bash sociophish.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `SocioPhisher` is installed.
@@ -75,7 +75,7 @@ $ docker run --rm -it alexbieber/SocioPhish
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `SocioPhisher` for the first time.
+> All the dependencies will be installed automatically when you run `SocioPhish` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
