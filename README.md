@@ -50,12 +50,12 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/alexbieber/SocioPhisher.git
+$ git clone https://github.com/alexbieber/SocioPhish.git
 ```
 
 - Change to cloned directory and run `SocioPhisher.sh` -
 ```
-$ cd SocioPhisher
+$ cd SocioPhish
 $ bash sociophisher.sh
 ```
 
@@ -63,8 +63,8 @@ $ bash sociophisher.sh
 
 ### Run on Docker
 ```
-$ docker pull alexbieber/SocioPhisher
-$ docker run --rm -it alexbieber/SocioPhisher
+$ docker pull alexbieber/SocioPhish
+$ docker run --rm -it alexbieber/SocioPhish
 ```
 
 ### Dependencies
