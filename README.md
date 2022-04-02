@@ -93,5 +93,5 @@ $ docker run --rm -it alexbieber/SocioPhish
 ### Find Me on :
 <p align="left">
   <a href="https://github.com/alexbieber" target="_blank"><img src="https://img.shields.io/badge/Github-Alex--Bieber-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/alexbieber" target="_blank"><img src="https://img.shields.io/badge/IG-%40alexbieber1234-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.instagram.com/alexbieber1234" target="_blank"><img src="https://img.shields.io/badge/IG-%40alexbieber1234-red?style=for-the-badge&logo=instagram"></a>
 </p>
