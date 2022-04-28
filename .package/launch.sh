@@ -3,10 +3,10 @@
 DISTRO=$(uname -o)
 
 if [ $DISTRO == Android ]; then
-	export SOCIOPHISHER_ROOT="/data/data/com.termux/files/usr/opt/SocioPhisher"
+	export SOCIOPHISH_ROOT="/data/data/com.termux/files/usr/opt/SocioPhish"
 else
-	export SOCIOPHISHER_ROOT="/usr/opt/SocioPhish"
+	export SOCIOPHISH_ROOT="/usr/opt/SocioPhish"
 fi
 
-cd $SOCIOPHISHER_ROOT
+cd $SOCIOPHISH_ROOT
 bash ./sociophisher.sh
