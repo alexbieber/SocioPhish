@@ -7,10 +7,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/alexbieber/SocioPhisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/alexbieber/SocioPhisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/alexbieber/SocioPhisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/alexbieber/SocioPhisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/alexbieber/SocioPhish?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/alexbieber/SocioPhish?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/alexbieber/SocioPhish?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/alexbieber/SocioPhish?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
