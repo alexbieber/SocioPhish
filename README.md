@@ -63,7 +63,7 @@ $ git clone https://github.com/alexbieber/SocioPhish.git
 - Change to cloned directory and run `SocioPhish.sh` -
 ```
 $ cd SocioPhish
-$ bash sociophisher.sh
+$ sudo bash sociophisher.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `SocioPhish` is installed.
