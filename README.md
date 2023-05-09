@@ -2,7 +2,7 @@
 <!-- SocioPhish -->
 
 <p align="center">
-  <img src="https://www.jsblbank.com/blogsjsbl/financial/Encyc/2020/3/3/2_05_25_50_Phishing-_1_H@@IGHT_600_W@@IDTH_800.gif">
+  <img src="https://www.nortonlifelock.com/sites/default/files/2022-07/Pulse%20Report%20Social%20Motion_2.gif">
 </p>
 
 <p align="center">
